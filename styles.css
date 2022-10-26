@@ -199,10 +199,10 @@
     overflow: hidden;
     min-height: fit-content;
   }
-  .calendar~div{
+  .calendar>div{
     display: none;
   }
-  .calendar~div:first-of-type{
+  .calendar>div:first-of-type{
     display: block;
   }
   .js-calendar-graph {
