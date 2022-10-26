@@ -201,6 +201,7 @@
   }
   .calendar div{
     height: 0px;
+    min-height: 0px;
     overflow: hidden;
   }
   .calendar div:first-of-type{
