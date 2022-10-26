@@ -200,12 +200,10 @@
     min-height: fit-content;
   }
   .calendar div{
-    height: 0px;
-    min-height: 0px;
-    overflow: hidden;
+    display: none;
   }
   .calendar div:first-of-type{
-    height: unset;
+    display: block;
   }
   .js-calendar-graph {
     display: flex;
