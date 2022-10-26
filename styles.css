@@ -199,14 +199,14 @@
     overflow: hidden;
     min-height: fit-content;
   }
-  .calendar div{
+  .calendar~div{
     display: none;
   }
-  .calendar div:first-of-type{
+  .calendar~div:first-of-type{
     display: block;
   }
   .js-calendar-graph {
-    display: flex !important;
+    display: flex;
     flex-direction: column;
     align-items: flex-end;
     padding: 12px;
