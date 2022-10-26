@@ -195,7 +195,7 @@
     font-size: 11px;
   }
   .calendar {
-    width: 90vw;
+    width: 50vw;
     overflow: hidden;
   }
   .js-calendar-graph {
