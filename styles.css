@@ -195,7 +195,7 @@
     font-size: 11px;
   }
   .calendar {
-    width: 100vw;
+    width: calc(100vw - 2px);
     overflow: hidden;
     min-height: fit-content;
   }
