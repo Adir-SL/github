@@ -206,9 +206,14 @@
     display: block;
   }
   .js-calendar-graph {
-    display: flex;
+    display: flex !important;
     flex-direction: column;
     align-items: flex-end;
     padding: 12px;
+  }
+  .position-relative{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
   }
   
