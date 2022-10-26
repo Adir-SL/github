@@ -211,9 +211,4 @@
     align-items: flex-end;
     padding: 12px;
   }
-  .position-relative{
-    display: flex;
-    flex-direction: row;
-    align-items: flex-end;
-  }
   
