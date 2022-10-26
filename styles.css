@@ -197,6 +197,7 @@
   .calendar {
     width: 90vw;
     overflow: hidden;
+    min-height: fit-content;
   }
   .calendar div{
     display: none;
